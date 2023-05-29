@@ -1,0 +1,15 @@
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\obj\Debug\net6.0\Ex006(1).csproj.AssemblyReference.cache
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\obj\Debug\net6.0\Ex006(1).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\obj\Debug\net6.0\Ex006(1).AssemblyInfoInputs.cache
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\obj\Debug\net6.0\Ex006(1).AssemblyInfo.cs
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\obj\Debug\net6.0\Ex006(1).csproj.CoreCompileInputs.cache
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\bin\Debug\net6.0\Ex006(1).exe
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\bin\Debug\net6.0\Ex006(1).deps.json
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\bin\Debug\net6.0\Ex006(1).runtimeconfig.json
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\bin\Debug\net6.0\Ex006(1).dll
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\bin\Debug\net6.0\Ex006(1).pdb
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\obj\Debug\net6.0\Ex006(1).dll
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\obj\Debug\net6.0\refint\Ex006(1).dll
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\obj\Debug\net6.0\Ex006(1).pdb
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\obj\Debug\net6.0\Ex006(1).genruntimeconfig.cache
+C:\Users\FriisK\Documents\projetinho felas\gitgit\Ex006(1)\Ex006(1)\obj\Debug\net6.0\ref\Ex006(1).dll
